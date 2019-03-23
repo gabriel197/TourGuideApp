@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">BucharestTourGuide</string>
+
+    <!--Category names -->
+    <string name="category_park">Parks</string>
+    <string name="category_museum">Museums</string>
+    <string name="category_gems">Gems</string>
+    <string name="category_club">Clubs</string>
+
+    <!-- Moved all strings here because is more aesthetic & possible translation-->
+
+    <!-- Store the name and description of @link MuseumsFragment -->
+    <string name="text1">The National Art Museum of Romania is the most important museum of art in the country. It is subordinated to the Ministry of Culture and Religious Affairs.</string>
+    <string name="text2">It has objects of historic value discovered on the present territory of Romania from prehistoric times to the contemporary period.</string>
+    <string name="text3">It is one of the most diverse museums in the European family of the Museums of Folk Arts and Traditions.</string>
+    <string name="text4">The heritage of the museum is made up of over 2 million pieces, grouped in various collections.</string>
+    <string name="text5">It was established in 1956 and is hosted by Cantacuzino Palace on Calea Victoriei.</string>
+    <string name="text6">The museum houses collections in the three buildings of the building: works of modern Romanian art, folk Romanian art, paintings, graphics and sculptures</string>
+    <string name="text7">It was opened to the public in 1990, built in 1906, according to the plans of the architect Victor G. Stephanescu.</string>
+    <string name="title1">The National Art Museum of Romania</string>
+    <string name="title2">National History Museum</string>
+    <string name="title3">National Museum of the Romanian Peasant</string>
+    <string name="title4">George Antipa Museum</string>
+    <string name="title5">George Enescu National Museum</string>
+    <string name="title6">Museum of Art Collections</string>
+    <string name="title7">National Museum of Geologys</string>
+
+    <!--Store the name and description of @link ParksFragment-->
+    <string name="titleP1">Herastrau</string>
+    <string name="titleP2">Kiseleff</string>
+    <string name="titleP3">Youth Park</string>
+    <string name="titleP4">Carol</string>
+    <string name="titleP5">Cismigiu</string>
+    <string name="titleP6">Ioanid Park</string>
+    <string name="titleP7">National Park</string>
+    <string name="infoP1">Herastrau Park or King Michael I Park is a large park on the northern side of Bucharest, Romania, around Lake Herăstrău.</string>
+    <string name="infoP2">Is located on both sides of the Kiseleff Road in the triangle described by Ion Mihalache Boulevard, Aviatorilor Avenue and Ion Mincu Street.</string>
+    <string name="infoP3">Tineretului Park is located at a short distance south of Unirii Square, the city center, with an area of about 200 hectares, currently the largest park in Bucharest.</string>
+    <string name="infoP4">Carol Park, called Freedom Park in 1948/1991, is a park located in Sector 4 of Bucharest, on the Filaret Hill</string>
+    <string name="infoP5">Cişmigiu Garden is the oldest public garden in Bucharest. It is set in the center of the city and has an area of about 16 hectares.</string>
+    <string name="infoP6">It is a park in Bucharest, sector 2, with an area of 10,000 sqm. The park is declared a historic monument</string>
+    <string name="infoP7">In this park there are the National Sports Complex and the Football House, the headquarters of the Romanian Football Federation.</string>
+
+    <!--Store the name and description of @link GemsFragment-->
+    <string name="titleG1">Pasajul Vilacrosse</string>
+    <string name="titleG2">Pura Vida Sky Bar</string>
+    <string name="titleG3">Carturesti Carusel</string>
+    <string name="titleG4">Abandoned buildings of Bucharest</string>
+    <string name="titleG5">The English Passage</string>
+    <string name="titleG6">Antiquities market at Bazar</string>
+    <string name="titleG7">Pasajul Victoria</string>
+    <string name="infoG1">Bucharest is sometimes called the Little Paris. No other place in Bucharest reminded me of Paris more than these two tiny passages hidden right in the middle of the city centre.</string>
+    <string name="infoG2">You’ll probably never think of climbing five flights of stairs of a hostel in order to get to a bar. But if you are fit enough, I strongly recommend that you check this place out.</string>
+    <string name="infoG3">This beautiful bookstore is a true gem right in the Old Town of Bucharest. Carturesti Carusel is one of those Instagram-perfect places that probably get a lot of visitors thanks to social media.</string>
+    <string name="infoG4">Bucharest has incredible architecture, but also many abandoned buildings that still have so much charm. Two of my favourites were the 120-year old Macca House and The Truth newspaper Trust (1898).</string>
+    <string name="infoG5">The English passage leads you straight through a building that was first built as a brothel in 1900. Since WWII it’s being used as social accommodation.The architecture is really worth seeing.</string>
+    <string name="infoG6">If you like flee markets and looking for some old hidden treasures, then don’t miss this antiquities market located inside an old semi-abandoned building in the centre of Bucharest.</string>
+    <string name="infoG7">Here you\'ll find a lot of colorful umbrellas and a hidden bar, it is one of the places that\'s worth visiting</string>
+
+    <!--Store name and description of @link ClubsFragment-->
+    <string name="titleC1">Player Club</string>
+    <string name="titleC2">Control Club</string>
+    <string name="titleC3">Princess Club</string>
+    <string name="titleC4">BOA Club</string>
+    <string name="titleC5">Blue Club</string>
+    <string name="titleC6">The Silver Church</string>
+    <string name="titleC7">El Comandante</string>
+    <string name="infoC1">The one and only place in Bucharest for nightlife experience and unique pool parties by summer.</string>
+    <string name="infoC2">Here are hosted most of the artist\'s concerts</string>
+    <string name="infoC3">Princess club is where all students gather every thursday</string>
+    <string name="infoC4">Knowsn as Beat of Angles, there you\'ll find the perfect universe</string>
+    <string name="infoC5">As the name says, the atmosphere is always blue</string>
+    <string name="infoC6">The best club to go with your girlfriend</string>
+    <string name="infoC7">The single club where girls outnumbers boys, here you gotta bring the moves with you</string>
+</resources>
